@@ -1,0 +1,18 @@
+{
+	"name": "tiki-icons",
+	"description": "Icons packs for tiki website",
+	"main": "tiki-icons.html",
+	"dependencies": {
+		"polymer": "Polymer/polymer#^1.7.0",
+		"iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.0.11",
+		"iron-icon": "PolymerElements/iron-icon#^1.0.12"
+	},
+	"devDependencies": {
+		"paper-styles": "polymerelements/paper-styles#^1.0.2",
+		"iron-component-page": "polymerelements/iron-component-page#1.0.0",
+		"iron-flex-layout": "polymerelements/iron-flex-layout#^1.0.0",
+		"iron-meta": "polymerelements/iron-meta#^1.0.0",
+		"webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+		"web-component-tester": "^4.0.0"
+	}
+}
