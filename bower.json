@@ -2,7 +2,7 @@
 	"name": "tiki-icons",
 	"description": "Icons packs for tiki website",
 	"main": "tiki-icons.html",
-	"version": "0.1.8",
+	"version": "0.1.9",
 	"dependencies": {
 		"polymer": "Polymer/polymer#^1.7.0",
 		"iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.0.11",
